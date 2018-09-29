@@ -1,0 +1,30 @@
+{
+  "name": "atomlearningproject",
+  "version": "1.0.0",
+  "description": "A learning project for Atom",
+  "main": "index.js",
+  "scripts": {
+    "test": "electon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agileBeluga/AtomLearningProject.git"
+  },
+  "keywords": [
+    "learning",
+    "atom",
+    "githubintegrated",
+    "css",
+    "html",
+    "learning"
+  ],
+  "author": "agileBeluga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agileBeluga/AtomLearningProject/issues"
+  },
+  "homepage": "https://github.com/agileBeluga/AtomLearningProject#readme",
+  "dependencies": {
+    "electron": "^3.0.2"
+  }
+}
